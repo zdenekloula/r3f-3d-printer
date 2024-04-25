@@ -3,6 +3,9 @@
 # React Three Fiber 3D printer print visualization
 A 3D printer visualization based on real STL file. It's based on the React Three Fiber, data prepared by transforming G-code to JSON.
 
+## Demo
+Go to [https://3d-printer.zdenekloula.com/](https://3d-printer.zdenekloula.com/).
+
 ## Optimize commands
 
 ### Optimize GLB File
